@@ -4,5 +4,6 @@
 
         ffprobe -show_format -print_format json <filePath> >> output_append.json
         
-- Print only file name from a folder    
-    ls -1 *.MP4
+- Print only file name from a folder
+    
+        ls -1 *.MP4
